@@ -5,25 +5,6 @@
     font-family: 'Inter', sans-serif;
 }
 
-.icon-back {
-    position: fixed;
-    margin-left: 90%;
-    margin-top: 35%;
-    height: 10vh;
-    width: 10vh;
-    background-color: transparent;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.icon-back button, img {
-    width: 100%;
-}
-.icon-back button {
-    background-color: transparent;
-    border-radius: 10px;
-}
 
 header {
     background-color: #24252a;
@@ -205,17 +186,4 @@ header {
         text-decoration: none;
     }
     
-
-    .icon-back {
-        position: fixed;
-        height: 7vh;
-        width: 7vh;
-        background-color: black;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-top: 110%;
-        margin-right: 15%;
-        
-    }
 }
