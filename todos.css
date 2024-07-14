@@ -13,25 +13,6 @@ h1 {
     text-align: center;
 }
 
-.icon-back {
-    position: fixed;
-    margin-top: 40%;
-    margin-left: 90%;
-    height: 10vh;
-    width: 10vh;
-    background-color: transparent;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.icon-back button, img {
-    width: 100%;
-}
-.icon-back button {
-    background-color: transparent;
-    border-radius: 10px;
-}
 
 div {
     width: 100%;
