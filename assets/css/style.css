@@ -191,8 +191,8 @@ header {
     }
     
     .mobzinho div section {
-        width: 15dvh;
-        height: 15dvh;
+        width: 18dvh;
+        height: 18dvh;
         border: 1px solid black;
         display: flex;
         align-items: center;
