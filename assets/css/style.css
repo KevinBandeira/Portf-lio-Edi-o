@@ -7,8 +7,8 @@
 
 .icon-back {
     position: fixed;
-    margin-top: 40%;
     margin-left: 90%;
+    margin-top: 35%;
     height: 10vh;
     width: 10vh;
     background-color: transparent;
@@ -208,13 +208,13 @@ header {
 
     .icon-back {
         position: fixed;
-        margin-top: 168%;
-        margin-left: 75%;
         height: 7vh;
         width: 7vh;
         background-color: transparent;
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-top: 130%;
+        margin-right: 15%;
     }
 }
